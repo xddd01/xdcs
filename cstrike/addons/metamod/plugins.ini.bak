@@ -1,0 +1,12 @@
+// Nao altere a lista
+linux addons/protecoes/reunion/reunion_mm_i386.so
+;linux addons/protecoes/rechecker/rechecker_mm_i386.so
+linux addons/protecoes/vtc/VoiceTranscoder.so
+linux addons/protecoes/whblocker/whblocker_mm_i386.so
+linux addons/protecoes/hitbox_fix/hitbox_fix_mm_i386.so
+linux addons/resrdetector/resrdetector_mm_i386.so
+linux addons/protecoes/resemiclip/resemiclip_mm_i386.so
+linux addons/protecoes/snac/SafeNameAndChat.so
+linux addons/amxmodx/dlls/amxmodx_mm_i386.so
+
+
